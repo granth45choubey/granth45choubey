@@ -19,6 +19,7 @@
 ![](https://github-readme-stats.shion.dev/api?username=granth45choubey&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=granth45choubey&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=granth45choubey&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=granth45choubey&theme=dark&include_all_commits=true&count_private=true&v=2)
 
 
 ### ✍️ Random Dev Quote
