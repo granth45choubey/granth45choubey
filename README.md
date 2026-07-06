@@ -1,5 +1,14 @@
-# 💫 About Me:
-# Hi, I'm Granth Choubey 👋<br><br>AI Engineer and Computer Science undergraduate at IIIT Vadodara, passionate about building intelligent systems that bridge research and real-world applications.<br><br>Currently:<br>• AI Engineer on an enterprise AI project for a New York-based publishing company, developing RAG-powered content generation systems using LangChain and LLMs.<br>• Research Intern at IIIT Vadodara, working on Deep Reinforcement Learning for dual-UAV Integrated Sensing and Communication (ISAC) systems.<br><br>Areas of Interest:<br>Generative AI • Large Language Models • RAG Systems • Agentic AI • Reinforcement Learning • Machine Learning Systems<br><br>Technical Stack:<br>Python | C++ | SQL | LangChain | RAG | LLMs | TensorFlow | PyTorch | Git<br><br>Selected Work:<br>• AI-Powered Book Generation System (RAG)<br>• AI Crop Disease Detection System<br>• Image Restoration using K-SVD and DWT<br><br>I enjoy building scalable AI systems, exploring cutting-edge research, and transforming ideas into production-ready solutions.
+<h1 align="center">Hi 👋, I'm Granth Choubey</h1>
+<h3 align="center">A Devoted developer, navigating the chaos of frontend and backend</h3>
+
+
+- 🌱 I’m currently learning **LangChain and related frameworks**
+
+- 💬 Ask me about **RAG, LLM**
+
+- 📫 How to reach me :  **granthchoubey09@gmail.com**
+
+- ⚡ Fun fact **I can recite all the lines from my favorite sitcoms!**
 
 
 ## 🌐 Socials:
