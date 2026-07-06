@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Granth Choubey</h1>
-<h3 align="center">A Devoted developer, navigating the chaos of frontend and backend</h3>
+<h3 align="center">Building AI that reasons, retrieves, and delivers.</h3>
 
 
 - 🌱 I’m currently learning **LangChain and related frameworks**
