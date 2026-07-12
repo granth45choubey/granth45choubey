@@ -14,10 +14,10 @@
 
 - 🔭 AI Engineer
 - 🤖 Building RAG Systems
-- 📚 Research Intern @ IIIT Vadodara
-- 🌱 Learning LangGraph
-- 💬 Ask me about LLMs
-- ⚡ Fun Fact...
+- 📚 Full stack and AI Applications
+- 🌱 Learning LangGraph,MCP,Agents
+- 💬 Ask me about LLMs,Backend
+- ⚡ Connect : granthchoubey09@gmail.com
 
 </td>
 
